@@ -32,7 +32,7 @@ Utilizando Repeat keyword
 
 FOR do tipo IN Range
     Log To Console    ${\n}
-    FOR               ${CONTADOR}                   IN RANGE    1    6    
+    FOR               ${CONTADOR}                   IN RANGE    1    9    
     Log To Console    Posição:${CONTADOR}
     Log               Posição:${CONTADOR}
     END
